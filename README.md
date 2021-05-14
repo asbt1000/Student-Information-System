@@ -1,2 +1,4 @@
 # Student-Information-System
-It is basic frontend project of student information system
+It is basic front-end project of student information system
+
+# Features
